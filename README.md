@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imadzaza and this is my new GitHub repo
-- 👀 I’m interested in Software Engeneering, in task scheduler problem on real-time Emedded Systems and in past during my phd i have worked on Railway Signalling - Intelocking, , 
+- 👀 I’m interested in Software Engeneering, in task scheduler problem on real-time Emedded Systems and in past during my phd i have worked on Railway Signalling i.e. Intelocking
   
 
 <!---
