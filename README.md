@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @imadzaza
-- 👀 I’m interested in Railway Signalling - Intelocking, Emedded Systems, Software Engeneering 
-- 🌱 I’m currently learning high-performance database solutions using PostgreSQL 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @imadzaza and this is my new GitHub repo
+- 👀 I’m interested in Software Engeneering, in task scheduler problem on real-time Emedded Systems and in past during my phd i have worked on Railway Signalling - Intelocking, , 
+  
 
 <!---
 imadzaza/imadzaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
